@@ -1,0 +1,22 @@
+{
+  "name": "LTLTools",
+  "version": "0.1.0",
+  "summary": "A short description of LTLTools.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/LTLyaoni/LTLTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "LTLyaoni": "1184676257@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/LTLyaoni/LTLTools.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LTLTools/Classes/**/*"
+}
